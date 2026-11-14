@@ -54,6 +54,8 @@ The RCA is saved as `postmortem-<incident-name>.md` in your current directory.
 
 This plugin is instructions only. It has no MCP server, no hooks, no scripts, and makes no network calls. It reads only the files you point it at and sends nothing anywhere beyond your normal Claude session.
 
+[Privacy](https://github.com/ashishjsharda/incident-rca/blob/main/PRIVACY.md)
+
 ## License
 
 MIT
