@@ -1,0 +1,21 @@
+{
+  "name": "incident-rca",
+  "version": "1.0.0",
+  "description": "Turn raw incident evidence (logs, alerts, chat notes) into a blameless postmortem: timeline, root cause, 5 whys, and owned action items.",
+  "author": {
+    "name": "Ashish Sharda",
+    "url": "https://github.com/ashishjsharda"
+  },
+  "homepage": "https://github.com/ashishjsharda/incident-rca",
+  "repository": "https://github.com/ashishjsharda/incident-rca",
+  "license": "MIT",
+  "keywords": [
+    "incident",
+    "rca",
+    "postmortem",
+    "sre",
+    "devops",
+    "on-call",
+    "reliability"
+  ]
+}

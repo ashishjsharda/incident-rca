@@ -1,0 +1,14 @@
+{
+  "name": "incident-rca",
+  "description": "Blameless incident postmortems from raw logs, alerts, and chat notes.",
+  "owner": {
+    "name": "Ashish Sharda"
+  },
+  "plugins": [
+    {
+      "name": "incident-rca",
+      "source": "./",
+      "description": "Turn raw incident evidence (logs, alerts, chat notes) into a blameless postmortem: timeline, root cause, 5 whys, and owned action items."
+    }
+  ]
+}
